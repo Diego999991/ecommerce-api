@@ -8,7 +8,7 @@
 
 > API RESTful completa para e-commerce com autenticação JWT, gerenciamento de produtos, carrinho de compras e sistema de pedidos. Construída seguindo princípios de Clean Code e boas práticas de desenvolvimento.
 
-[🚀 Demo ao Vivo](#) | [📖 Documentação Completa](#documentação-da-api)
+
 
 ---
 
